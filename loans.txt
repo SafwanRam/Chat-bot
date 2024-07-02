@@ -1,0 +1,13 @@
+ Bank of Lanka Offers Following Loans :-
+
+  Personal
+  Business
+  Payday
+  Cash Advance
+  Credit Card
+  Auto
+  Home
+  Mortgages
+  Dept Consolidation
+  Student	
+===================================================
